@@ -1,6 +1,6 @@
 Name:		texlive-platex-tools
 Version:	64072
-Release:	1
+Release:	2
 Summary:	pLaTeX standard tools bundle
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/platex-tools
