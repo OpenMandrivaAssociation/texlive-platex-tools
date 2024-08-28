@@ -1,5 +1,5 @@
 Name:		texlive-platex-tools
-Version:	66185
+Version:	72097
 Release:	1
 Summary:	pLaTeX standard tools bundle
 Group:		Publishing
